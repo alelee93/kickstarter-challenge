@@ -36,13 +36,15 @@ Theater/Play outcomes seem to be more successful when they have a goal that is l
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/61717854/151645734-116cd214-e4a2-49d6-b5af-4d2ac7d01f98.PNG)
 
 
-It would be interesting to look at the outcome rates and average goals by month. After taking out an outlier (id 2960) from the Kickstarter data which most likely had a typo (goal stated was 30MM), we can see the following chart. This shows us that the relationship between launch date and success is not very strong. Also, this explains why we saw a drop in success in December (the average goal was significantly higher). In conclusion, success seems to be more related to average goal, and a lower average goal seems to be better for the success of a theater campaign.
+It would be interesting to look at the outcome rates and average goals by month. After taking out an outlier (id 2960) from the Kickstarter data which most likely had a typo (goal stated was 30MM), we can see the charts below. These show us that the relationship between launch date and success is not very strong. Also, this explains why we saw a drop in success in December (the average goal was significantly higher). In conclusion, success seems to be more related to average goal, and a lower average goal seems to be better for the success of a theater campaign.
+
+ A limitation for the data is that it does not include the genre of the plays. The genre of the play may be a lurking variable, making us draw incorrect conclusions about the relationship between the goal amount and the success of a theater campaign.
 
 ![theater outcome % and avg goal](https://user-images.githubusercontent.com/61717854/151645739-9a0ad8d3-7d28-4277-a8df-dc7b9249ce82.PNG)
 
 ![theater outcome % and avg goal 2](https://user-images.githubusercontent.com/61717854/151645742-bb48869a-046e-4b86-89ca-cff965bb007c.PNG)
 
 
- A limitation for the data is that it does not include the genre of the plays. The genre of the play may be a lurking variable, making us draw incorrect conclusions about the relationship between the goal amount and the success of a theater campaign.
+
 
 
