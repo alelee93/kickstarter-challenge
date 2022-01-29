@@ -10,7 +10,7 @@ The purpose of this analysis is to understand how different theater campaigns fa
 A Kickstarter dataset with the performance and funding information of different campaigns across various fields and years was provided. To perform the analysis for this report, we reviewed the dataset and added some fields to be able to examine it at a closer level. Two of the key fields that were added include the year of creation and parent category for each campaign. 
 
 ### Analysis of Outcomes Based on Launch Date
-To summarize the data pertaining to “theater” campaigns based on their launch date, we created a pivot table showing theater outcomes by the month launched. To visualize this data and be able to find any trends, we charted the data using the “line with markers chart”.  
+To summarize the data pertaining to “theater” campaigns based on their launch date, we created a [pivot table](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) showing theater outcomes by the month launched. To visualize this data and be able to find any trends, we charted the data using the “line with markers chart”.  
 
 ### Analysis of Outcomes Based on Goals
 We also analyzed the outcomes of the campaigns based on their goals. To accomplish this, we used Excel formulas to group “theater-play” goals by ranges and displayed their success, failure, and cancelation rate on a line graph. 
